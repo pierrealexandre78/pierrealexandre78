@@ -4,7 +4,7 @@
 
 - ⚡ I'm a data engineer with experience in Cybersecurity & Healthcare
   - 🤔 I'm currently looking for new opportunities in data engineering field
-  - 🌱 I’m currently learning more and more about Apache frameworks
+  - 🌱 I’m currently learning more and more about deploying machine learning solutions
   - 😄 Feel free to take a look at my projects!
 - 📫 How to reach me [*LinkedIn*](https://www.linkedin.com/in/pierrealexandre-baril/)
 - 📝 My certification:
